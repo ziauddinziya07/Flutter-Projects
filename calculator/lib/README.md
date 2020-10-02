@@ -2,9 +2,6 @@
 
 - A new Flutter project.
 - Not just a simple calculator but an <i>Ulitmate and Useful Calculator<i>.
-![alt text](https://https://github.com/ziauddinziya07/Images/blob/main/Calculator4419944.png?raw=true)
-  ![Calculator4419944](https://user-images.githubusercontent.com/54236981/94977375-15f9d700-0536-11eb-93f6-fc3bf317348c.png)
-
 - Calculates complex Arithmetic expressions.
 - Theme changing functionality i.e. dark and light themes.
 

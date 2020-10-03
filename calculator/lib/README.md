@@ -18,11 +18,12 @@
 >       72 + 10 * 5 ----> = 122
 > ![Screenshot_2020-10-03-16-15-53-466_com example calculator](https://user-images.githubusercontent.com/54236981/94989699-538d4d00-0594-11eb-9068-3bc064b86619.jpg)
 ![Screenshot_2020-10-03-16-15-31-065_com example calculator](https://user-images.githubusercontent.com/54236981/94989700-55571080-0594-11eb-91fd-20adf16de9e4.jpg)
-<br>
+<br><br>
+
 - Modulo division 
 >       10 % 3 ----> = 1
-> ![Screenshot_2020-10-03-15-51-04-570_com example calculator](https://user-images.githubusercontent.com/54236981/94989529-2ab88800-0593-11eb-90b9-73bb9ed034ad.jpg)
-<br>
+> ![Screenshot_2020-10-03-15-51-04-570_com example calculator](https://user-images.githubusercontent.com/54236981/94989859-5d638000-0595-11eb-8131-53b35d354e75.jpg)
+<br><br>
 
 - simple percentage opeation
 >       100 - 20% ----> = 80

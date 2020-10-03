@@ -6,7 +6,7 @@
 - Not just a simple calculator but an <i>Ulitmate and Useful Calculator</i>.
 - Calculates complex Arithmetic expressions.
 - Theme changing functionality i.e. dark and light themes.
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/54236981/94978250-27dd7900-053a-11eb-86af-15d5259ce987.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/54236981/94981500-71d15980-0550-11eb-81dc-e5bc18c4474d.gif)
 
 ## Oprations:
 

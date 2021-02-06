@@ -12,4 +12,7 @@
 
 - With the concept of ***SharedPreferences*** to save the last state of the *App* and *Count*.
 - ***SharedPreferences*** also save the **Count Staus and Theme status** so that ***Users*** experience will be smooth and Good and not to bring them to the ***First Screen Every Time***.
-- Theme Changing Functionality **Dark, Green, Blue and Pink** ....
+- User will see what he has left at the last Moment.
+- Theme Changing Functionality **Dark, Green, Blue and Pink** ....<br/><br/>
+![WhatsApp Image 2021-02-06 at 7 55 53 AM (1)](https://user-images.githubusercontent.com/54236981/107107531-91a6c000-6857-11eb-801d-698e43ee2878.jpeg)
+![WhatsApp Image 2021-02-06 at 7 55 53 AM](https://user-images.githubusercontent.com/54236981/107107533-92d7ed00-6857-11eb-9b42-a2b6f82b70d6.jpeg)
